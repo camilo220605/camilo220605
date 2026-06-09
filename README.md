@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hola, soy Camilo 👋
 
-<!--
-**camilo220605/camilo220605** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tecnólogo en Análisis y Desarrollo de Software graduado del SENA.
 
-Here are some ideas to get you started:
+💻 Desarrollador enfocado en Python y Django.
+🌱 Actualmente aprendiendo .NET y buenas prácticas de desarrollo.
+🔧 Experiencia con Git, GitHub, bases de datos SQL y desarrollo web.
+📱 Participé en el desarrollo de una aplicación web y móvil para el monitoreo de transporte público.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías
+
+- Python
+- Django
+- Git
+- GitHub
+- SQL
+- HTML
+- CSS
+- JavaScript
+
+## Contacto
+
+📧 ballesterosljuanca@hotmail.com
