@@ -1,6 +1,8 @@
 # Hola, soy Camilo 👋
 
-Tecnólogo en Análisis y Desarrollo de Software graduado del SENA.
+Desarrollador full stack junior
+
+Tecnólogo en Análisis y Desarrollo de Software.
 
 💻 Desarrollador enfocado en Python y Django.
 🌱 Actualmente aprendiendo .NET y buenas prácticas de desarrollo.
